@@ -1,6 +1,6 @@
 # Conversor de Moedas
 
-Bem-vindo ao Conversor de Moedas! Este projeto em Java permite converter valores entre diferentes moedas utilizando a API ExchangeRate-API.
+Bem-vindo ao Conversor de Moedas! Este projeto em Java faz parte do curso Praticando Java: Challenge conversor de moedas e permite converter valores entre diferentes moedas utilizando a API ExchangeRate-API.
 
 ## Funcionalidades
 
@@ -21,19 +21,6 @@ Bem-vindo ao Conversor de Moedas! Este projeto em Java permite converter valores
   - `Moeda.java` - Record que representa uma moeda e sua taxa de câmbio.
   - `Principal.java` - Classe principal que contém o menu e a lógica de conversão.
 
-## Como Executar
-
-1. **Compile o projeto:**
-
-    ```bash
-    mvn compile
-    ```
-
-2. **Execute a aplicação:**
-
-    ```bash
-    mvn exec:java -Dexec.mainClass="Principal"
-    ```
 
 ## Exemplo de Uso
 
@@ -71,6 +58,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 
 Para mais informações, entre em contato:
 
-- Nome: Landro Vitorino Marinho
+- Nome: Leandro Vitorino Marinho
 - Email: lvmarinho.lm@gmail.com
   
